@@ -34,8 +34,6 @@ JavaScript – Used to add interactivity and enhance user experience
 
 Responsive navigation bar with a clean layout
 
-Attractive hero section with email input and call-to-action button
-
 Categories section showcasing popular learning domains
 
 Courses section displaying course cards with images, price, duration, and ratings
