@@ -21,24 +21,29 @@ The E-Learning Platform is designed with a modern UI to provide a smooth user ex
 
 The project focuses purely on frontend development, without backend integration. However, it follows real-world design principles used in modern web applications.
 
-Technologies Used:
+*Technologies Used:*
 HTML5 – Used to create the structure and layout of the website
-
 CSS3 – Used for styling, layout design, responsiveness, and animations
-
 JavaScript – Used to add interactivity and enhance user experience
 
-Features:
+*Features:*
 Responsive navigation bar with a clean layout
-
 Attractive hero section with email input and call-to-action button
-
 Categories section showcasing popular learning domains
-
 Courses section displaying course cards with images, price, duration, and ratings
-
 Hover effects, smooth transitions, and rounded UI elements
-
 Fully responsive design using CSS Grid and Flexbox
-
 Organized folder structure for better readability and maintenance
+
+*Images & Assests:*
+All images used in this project are sourced from free and open-license platforms such as Unsplash and Pexels. These images are safe to use for educational and portfolio purposes.
+
+*Purpose of This Project:*
+This project was created to:
+Strengthen my frontend development skills
+Gain hands-on experience with real-world UI design
+Understand responsive web layouts
+Build a professional project for my internship and portfolio
+
+#OUTPUT
+
