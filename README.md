@@ -36,14 +36,15 @@ Fully responsive design using CSS Grid and Flexbox
 Organized folder structure for better readability and maintenance
 
 *Images & Assests:*
-All images used in this project are sourced from free and open-license platforms such as Unsplash and Pexels. These images are safe to use for educational and portfolio purposes.
+All images used in this project are sourced from free and open-license platforms such as Unsplash and Pexels.
 
 *Purpose of This Project:*
 This project was created to:
 Strengthen my frontend development skills
 Gain hands-on experience with real-world UI design
 Understand responsive web layouts
-Build a professional project for my internship and portfolio
+
 
 #OUTPUT
+<img width="1360" height="679" alt="Image" src="https://github.com/user-attachments/assets/fcf85cca-b46c-434c-9fbe-29a2da0925e7" />
 
